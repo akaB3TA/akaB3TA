@@ -1,37 +1,47 @@
-# Merhaba, Ben Ali! 👋
+# Hello, I'm Ali! 👋
 
-🎓 Hakkımda
-Atatürk Üniversitesi Uygulamalı Bilimler Fakültesi, Bilişim Sistemleri ve Teknolojileri bölümü lisans mezunuyum. Teknolojiye olan ilgimle hem yazılım hem de donanım tarafında kendimi geliştirmeye devam ediyorum.
 
-🛠️ Yetenekler & Teknolojiler
-Temel düzeyde aşağıdaki dillerde bilgi sahibiyim:
+## 🎓 About Me
 
-Diller: HTML, CSS, JavaScript, Python, C#
+I am a graduate of Atatürk University, Faculty of Applied Sciences, Department of Information Systems and Technologies. Driven by my passion for technology, I am continuously improving my skills in both software and hardware development.
 
-Alanlar: Frontend Geliştirme, Backend Geliştirme, Donanım Bilgisi
 
-🚀 Güncel Olarak Devam Eden Projelerim
-1. 🌐 Forum Sitesi Projesi
+## 🛠️ Skills & Technologies
 
-Teknolojiler: HTML, CSS, JavaScript
+I have foundational knowledge in the following languages and areas:
 
-Detay: Frontend ve Backend mimarisini içeren, kullanıcı etkileşimli kapsamlı bir forum sitesi tasarımı.
+Languages: HTML, CSS, JavaScript, Python, C#
 
-2. 🤖 Discord Botu
+Areas: Frontend Development, Backend Development, Hardware Knowledge
 
-Teknolojiler: Node.js
 
-Detay: Discord sunucuları için özel işlevlere sahip bir bot tasarımı.
+## 🚀 Currently Ongoing Projects
 
-3. ✅ Çoktan Seçmeli Bilgi oyunu
 
-Teknolojiler: TypeScript, NextJS
+### 1. 🌐 Forum Website Project
 
-Detay: Oyuncuların bilgi sorularının doğru cevabını 4 şık arasından seçip yüksek puan almaya çalıştığı bilgi oyunu.
+Technologies: HTML, CSS, JavaScript
 
-📫 İletişim
-Benimle projeler hakkında konuşmak veya bağlantı kurmak istersen:
+Detail: Designing a comprehensive forum website featuring both Frontend and Backend architecture with interactive user elements.
 
-LinkedIn: https://tr.linkedin.com/in/ali-cop-228585256?trk=people-guest_people_search-card
 
-📊 GitHub İstatistiklerim:
+### 2. 🤖 Discord Bot
+
+Technologies: Node.js
+
+Detail: Developing a Node.js based bot with customized functions tailored for Discord servers.
+
+
+### 3. ✅ Multiple Choice Trivia Game
+
+Technologies: TypeScript, NextJS
+
+Detail: A trivia game where players aim for high scores by selecting the correct answer from 4 options.
+
+
+## 📫 Contact
+If you'd like to discuss projects or connect with me:
+
+LinkedIn: [My LinkedIn Profile](https://tr.linkedin.com/in/ali-cop-228585256?trk=people-guest_people_search-card)
+
+## 📊 My GitHub Stats
