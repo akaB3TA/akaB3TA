@@ -28,4 +28,4 @@ Benimle projeler hakkında konuşmak veya bağlantı kurmak istersen:
 
 LinkedIn: https://tr.linkedin.com/in/ali-cop-228585256?trk=people-guest_people_search-card
 
-📊 GitHub İstatistiklerim
+📊 GitHub İstatistiklerim:
