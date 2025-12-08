@@ -1,16 +1,31 @@
-## Hi there 👋
+# Merhaba, Ben Ali! 👋
 
-<!--
-**akaB3TA/akaB3TA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Hakkımda
+Atatürk Üniversitesi Uygulamalı Bilimler Fakültesi, Bilişim Sistemleri ve Teknolojileri bölümü lisans mezunuyum. Teknolojiye olan ilgimle hem yazılım hem de donanım tarafında kendimi geliştirmeye devam ediyorum.
 
-Here are some ideas to get you started:
+🛠️ Yetenekler & Teknolojiler
+Temel düzeyde aşağıdaki dillerde bilgi sahibiyim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Diller: HTML, CSS, JavaScript, Python, C#
+
+Alanlar: Frontend Geliştirme, Backend Geliştirme, Donanım Bilgisi
+
+🚀 Güncel Olarak Devam Eden Projelerim
+1. 🌐 Forum Sitesi Projesi
+
+Teknolojiler: HTML, CSS, JavaScript
+
+Detay: Frontend ve Backend mimarisini içeren, kullanıcı etkileşimli kapsamlı bir forum sitesi tasarımı.
+
+2. 🤖 Discord Botu
+
+Teknolojiler: Node.js
+
+Detay: Discord sunucuları için özel işlevlere sahip bir bot tasarımı.
+
+📫 İletişim
+Benimle projeler hakkında konuşmak veya bağlantı kurmak istersen:
+
+LinkedIn: https://tr.linkedin.com/in/ali-cop-228585256?trk=people-guest_people_search-card
+
+📊 GitHub İstatistiklerim
