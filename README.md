@@ -23,6 +23,12 @@ Teknolojiler: Node.js
 
 Detay: Discord sunucuları için özel işlevlere sahip bir bot tasarımı.
 
+3. ✅ Çoktan Seçmeli Bilgi oyunu
+
+Teknolojiler: TypeScript, NextJS
+
+Detay: Oyuncuların bilgi sorularının doğru cevabını 4 şık arasından seçip yüksek puan almaya çalıştığı bilgi oyunu.
+
 📫 İletişim
 Benimle projeler hakkında konuşmak veya bağlantı kurmak istersen:
 
