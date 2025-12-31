@@ -39,6 +39,27 @@ Technologies: TypeScript, NextJS
 Detail: A trivia game where players aim for high scores by selecting the correct answer from 4 options.
 
 
+### 4.  Kriptolu Mesajlaşma Uygulaması
+
+Technologies:
+
+Detail:
+
+
+### 5. LinkScope
+
+Technologies:
+
+Detail:
+
+
+### 6. Glow
+
+Technologies:
+
+Detail:
+
+
 ## 📫 Contact
 If you'd like to discuss projects or connect with me:
 
