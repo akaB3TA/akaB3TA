@@ -39,18 +39,18 @@ Technologies: TypeScript, NextJS
 Detail: A trivia game where players aim for high scores by selecting the correct answer from 4 options.
 
 
-### 4.  Kriptolu Mesajlaşma Uygulaması
+### 4. 🔒 Encrypted Messaging App (SecretID)
 
-Technologies:
+Technologies: JavaScript, HTML/CSS, Encryption Algorithms
 
-Detail:
+Detail: A secure, web-based messaging platform featuring PIN-based end-to-end encryption to ensure user privacy and data security.
 
 
-### 5. LinkScope
+### 🕵️ LinkScope
 
-Technologies:
+Technologies: HTML, CSS, JavaScript
 
-Detail:
+Detail: A web-based security analysis tool that scans URLs to detect potential threats and verify link safety for users.
 
 
 ### 6. Glow
